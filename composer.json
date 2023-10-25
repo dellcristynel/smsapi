@@ -1,7 +1,7 @@
 {
-    "name": "smsapi/php-client",
+    "name": "smsapiro/php-client",
     "description": "SMSAPI API PHP Client",
-    "homepage": "https://github.com/smsapi/smsapi-php-client",
+    "homepage": "https://github.com/dellcristynel/smsapi",
     "type": "library",
     "license": "Apache-2.0",
     "keywords": ["api client", "sms", "mms", "vms", "hlr", "url shortener", "smsapi", "smsapi.pl", "smsapi.com"],
