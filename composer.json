@@ -2,6 +2,7 @@
     "name": "smsapiro/php-client",
     "description": "SMSAPI API PHP Client",
     "homepage": "https://github.com/dellcristynel/smsapi",
+    "source":"https://github.com/dellcristynel/smsapi.git",
     "type": "library",
     "license": "Apache-2.0",
     "keywords": ["api client", "sms", "mms", "vms", "hlr", "url shortener", "smsapi", "smsapi.pl", "smsapi.com"],
