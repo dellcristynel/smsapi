@@ -29,7 +29,7 @@ class SmsapiHttpClient implements SmsapiClient
     private $streamFactory;
 
     private $smsapiPlUri = 'https://api.smsapi.pl';
-    private $smsapiComUri = 'https://api.smsapi.com';
+    private $smsapiComUri = 'https://api.smsapi.ro';
     private $dataFactoryProvider;
 
     public function __construct(
