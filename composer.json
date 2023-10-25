@@ -4,7 +4,7 @@
     "homepage": "https://github.com/dellcristynel/smsapi",
     "type": "vcs",
     "url": "https://github.com/dellcristynel/smsapi.git",
-    "branch": "main", // Replace "main" with the desired branch or tag name,
+    "branch": "main", 
     "license": "Apache-2.0",
     "keywords": ["api client", "sms", "mms", "vms", "hlr", "url shortener", "smsapi", "smsapi.pl", "smsapi.com"],
     "autoload": {
